@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("amogus");
+            Console.WriteLine("Я Мастюгин Миша, а не Артем");
         }
     }
 }
